@@ -1,6 +1,6 @@
 # Amazon-web-scraping-project
 
-Web scraping is data scraping used for extracting data from websites using its HTML structure,Executed the basic fundaments of web scraping using python and also explore it by a live demonstration with two python libraries Beautifulsoup and requests respectively.
+Web scraping is data scraping used for extracting data from websites using its HTML structure,Executed the basic fundaments of web scraping using python.Two python libraries Beautifulsoup and requests were used for scrapping and library smtplib was used for automating email sending task.
 
 A Jupyter notebook to scrape name and price of a amazon product each day or manually at any time using Python to create a dataset.
 

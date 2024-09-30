@@ -29,7 +29,6 @@ Detailed explanations for each analysis and the scraping methodology are include
 ## File Structure
 - `amazon_scraping.ipynb`: Contains the main code for scraping Amazon product data and analysis.
 - `requirements.txt`: Lists the necessary Python libraries for the project.
-- `output_data/`: Directory for storing the scraped data files (CSV/JSON).
 
 ## How to Use
 1. Clone this repository.
